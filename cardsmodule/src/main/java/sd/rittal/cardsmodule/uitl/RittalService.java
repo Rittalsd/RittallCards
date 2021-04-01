@@ -14,7 +14,10 @@ public class RittalService {
      * <p>
      * example :
      * <p>
-     * CallRittalService.cardTransfer(getApplicationContext(), "RittalTest", "PTest_Rittal", "RittalPgApp", "https://192.168.1.1");
+     *  RittalService.checkOutIDRequest(getApplicationContext(), "orgUsrName",
+     *                 "orgPass", "appName",
+     *                 "amount","toPan",
+     *                 "baseUrl");
      * </p>
      *
      * @param context    context.
