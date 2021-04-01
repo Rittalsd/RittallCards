@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="submit">موافق</string>
+    <string name="cancel">الغاء</string>
+    <string name="expire_date">تاريخ الصلاحية</string>
+    <string name="ipin">رقم الانترنت السري</string>
+    <string name="error">خطأ</string>
+    <string name="amount">المبلغ</string>
+    <string name="responsestatus">حالة النتيجة</string>
+    <string name="qr_purchase">شراء</string>
+    <string name="pan_error">رقم البطاقة يتكون من 16 خانة الي 19 خانة</string>
+    <string name="to_pan_error">رقم البطاقة المحول لها يتكون من 16 خانة الي 19 خانة</string>
+    <string name="expire_error">أختر تاريخ الصلاحية</string>
+    <string name="ipin_erro"> رقم الانترنت السري اربعة ارقام</string>
+    <string name="amount_error">مبلغ غير صحيح</string>
+    <string name="server_error">فشل الاتصال بالسيرفر</string>
+    <string name="went_error">حدث خطأ ما</string>
+    <string name="successfully">معاملة ناجحة</string>
+    <string name="service_name">نوع الخدمة</string>
+    <string name="exit">إنهاء</string>
+    <string name="share">مشاركة</string>
+    <string name="response_code">رمز الاستجابة</string>
+    <string name="currency">%.2f جنيه سوداني</string>
+    <string name="fees">العمولة</string>
+    <string name="from_card">من بطاقة</string>
+    <string name="to_card">الي بطاقة </string>
+    <string name="card_transfer">تحويل لبطاقة</string>
+    <string name="date_time">dالتاريخ والزمن</string>
+    <string name="application_name">إسم التطبيق</string>
+</resources>

@@ -1,0 +1,3 @@
+include ':cardsmodule'
+include ':app'
+rootProject.name = "RittallCards"
